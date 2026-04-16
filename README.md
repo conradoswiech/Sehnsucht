@@ -1,3 +1,2 @@
 # Sehnsucht
-
-[<img width="592" height="600" alt="Adepositphotos_170145234-stock-photo-cat-with-coffee-and-croissant" src="https://github.com/user-attachments/assets/9812f0e2-3840-4469-92d2-4011d422ef11" />](https://github.com/conradoswiech/Sehnsucht.git)
+<img width="300" height="168" alt="images" src="https://github.com/user-attachments/assets/0a4d7954-2eab-4fc1-bfde-338e5025afff" />
